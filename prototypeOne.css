@@ -83,12 +83,13 @@ a{
 .foot{
     background-color: #72d688;
     color: #ffffff;
-    min-height: 10%;
+    min-height: 9%;
     min-width: 100%;
     position: fixed;
     bottom: 0px;
     left: 0px;
     display: flex;
+    align-items: center;
 }
 
 
@@ -96,6 +97,7 @@ a{
     position: absolute;
     left: 5%;
     text-align: left;
+    
 }
 
 
